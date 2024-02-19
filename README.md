@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA/Product Management
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on health tech projects
-- 📫 How to reach me 
+- 📫adekayerofolasade@gmail.com
 
 <!---
 Adekayero/Adekayero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
